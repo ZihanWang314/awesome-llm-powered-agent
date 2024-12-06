@@ -278,6 +278,7 @@ Autonomous Agent for EDA."** *Zhuolun He (CUHK & Shanghai AI Lab) et al.* arXiv.
 * 🔥 [Aug 2023] **"AgentBench: Evaluating LLMs as Agents."** *Xiao Liu (THU) et al.* arXiv. [[paper](https://arxiv.org/abs/2308.03688)] [[code](https://github.com/THUDM/AgentBench)] [[project page](https://llmbench.ai/)]
 * [Aug 2023] **"TPTU: Task Planning and Tool Usage of Large Language Model-based AI Agents."** *Jingqing Ruan (SenseTime) et al.* arXiv. [[paper](https://arxiv.org/abs/2308.03427)]
 * 📖 [June 2023] **"ToolQA: A Dataset for LLM Question Answering with External Tools."** *Yuchen Zhuang (GaTech) et al.* NeurIPS 2023. [[paper](https://arxiv.org/abs/2306.13304)] [[code](https://github.com/night-chen/ToolQA)]
+* [Sep 2023] **"MINT: Evaluating LLMs in Multi-Turn Interaction with Tools and Language Feedback."** *Xingyao Wang (UIUC), Zihan Wang (Northwestern) et al.* ICLR 2024. [[paper](https://arxiv.org/abs/2309.10691)][[code](https://github.com/xingyaoww/mint-bench)]
 
 ### Survey & Tutorial
 
